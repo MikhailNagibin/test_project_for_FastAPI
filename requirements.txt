@@ -1,0 +1,4 @@
+fastAPI
+Jinja2
+python-multipart
+uvicorn
